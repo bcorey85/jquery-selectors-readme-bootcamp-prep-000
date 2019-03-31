@@ -1,3 +1,2 @@
 // declare your functions here...
 
-$('div')
