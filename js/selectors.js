@@ -4,3 +4,4 @@ paragraphSelector()
 
 lastImageSelector()
 
+ninjaBabySelector()
