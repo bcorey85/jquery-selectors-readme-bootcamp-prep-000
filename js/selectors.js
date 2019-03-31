@@ -1,11 +1,13 @@
 // declare your functions here...
 
-function paragraphSelector()
+function paragraphSelector(){
+  return ($'p')
+}
 
-lastImageSelector()
+function lastImageSelector()
 
-ninjaBabySelector()
+function ninjaBabySelector()
 
-divSelector()
+function divSelector()
 
-firstListItem()
+function firstListItem()
