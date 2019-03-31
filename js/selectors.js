@@ -2,6 +2,7 @@
 
 
 
-function callBackTest(something, function){
-  var buildQuote = 
+function callBackTest(something, func){
+  var buildQuote = `This is a test ${something}`
+  func(buildQuote)
 }
